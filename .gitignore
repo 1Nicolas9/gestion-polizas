@@ -1,0 +1,48 @@
+HELP.md
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+### VS Code ###
+.vscode/
+
+### OS Files ###
+.DS_Store
+Thumbs.db
+
+### Archivos del enunciado ###
+desarrollo.pdf
+prompt.txt
+prueba.txt
+observaciones.txt
+docs/ENTREGA_PRUEBA_TECNICA.md
+docs/MODULO_1_DISENO_SISTEMA.md
+docs/MODULO_3_BBDD.md
+docs/MODULO_4_VERSIONAMIENTO.md
+docs/MODULO_5_LIDERAZGO.md
