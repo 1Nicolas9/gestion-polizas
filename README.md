@@ -55,7 +55,7 @@ src/main/java/com/bolivar/gestionpolizas/
 
 ```bash
 # Clonar el repositorio
-git clone <url-del-repositorio>
+git clone https://github.com/1Nicolas9/gestion-polizas.git
 cd gestion-polizas
 
 # Compilar el proyecto
